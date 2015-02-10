@@ -1,0 +1,14 @@
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\Autofac.dll
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\CEN6070.dll
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\MongoDB.Driver.dll
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\MongoDB.Bson.dll
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\CEN6070.pdb
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\Autofac.xml
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\MongoDB.Driver.xml
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\bin\Debug\MongoDB.Bson.xml
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\josephc\Desktop\CEN6070\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
